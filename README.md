@@ -1,6 +1,6 @@
-**Ubuntu-Respinner**
+**Linux-Respinner**
 
-A script to respin and maintain Ubuntu ISO file releases.
+A script to respin and maintain Debian / Ubuntu / Linux Mint ISO file releases.
 
 Usage:
 
